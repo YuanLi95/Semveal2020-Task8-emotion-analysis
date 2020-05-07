@@ -15,3 +15,7 @@ semeval 2020 task8
 
 ##task_a and task_b operate on task a and task b
 
+## Contact
+yuanli@mail.ynu.edu.cn
+
+
