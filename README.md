@@ -1,4 +1,4 @@
-# Semveal2020-Task8-emotion-analysis
+# Semeval2020-Task8-emotion-analysis
 semeval 2020 task8
 
 ## Dataset
