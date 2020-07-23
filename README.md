@@ -14,6 +14,7 @@ data:https://www.kaggle.com/williamscott701/memotion-dataset-7k
 
 ##pre_a_b_c is the processing of data, a total of 3 word vectors (bert, elmo, infersent) were tried, and finally the bert word vector was selected
 
+
 ##task_a and task_b operate on task a and task b
 
 ## Contact
