@@ -1,7 +1,7 @@
 # Semeval2020-Task8-emotion-analysis
 semeval 2020 task8
 data:https://www.kaggle.com/williamscott701/memotion-dataset-7k
-
+the paper can be get in [this link]:(https://www.aclweb.org/anthology/2020.semeval-1.116.pdf)
 ## Dataset
 ### semeval-2020-task8
 
