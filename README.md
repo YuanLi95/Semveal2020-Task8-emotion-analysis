@@ -3,7 +3,7 @@ semeval 2020 task8
 data:https://www.kaggle.com/williamscott701/memotion-dataset-7k
 
 
-the paper can be get in :[YNU-HPCC at SemEval-2020 Task 8: Using a Parallel-Channel Model for
+the paper can be get in : [YNU-HPCC at SemEval-2020 Task 8: Using a Parallel-Channel Model for
 Memotion Analysis](https://www.aclweb.org/anthology/2020.semeval-1.116.pdf)
 ## Dataset
 ### semeval-2020-task8
